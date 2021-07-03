@@ -13,4 +13,4 @@ Connect with me on:
   <li>Facebook : https://www.facebook.com/sidharth.sharma.52035/ </li>
   <li><a href = "mailto: sidharth.mahai.work@gmail.com">Send Email</a></li>
 </ul>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SidharthMahai&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="sidharthmahai" width="450" height="250" /></p> 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SidharthMahai&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=ffffff&bg_color=151515" alt="sidharthmahai" width="450" height="250" /></p> 
