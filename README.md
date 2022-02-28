@@ -1,11 +1,11 @@
 <h1>Hello World, nice to meet you. You can call me Sid. 👋</h1>
 <h3>I'm a full stack web developer based in Bengaluru, India.</h3>
 
-🔭 Some of the technologies i work on: Angular, C#, Ionic, Firebase, Java, REST API, SQL, Power BI
+🔭 Some of the technologies i work on: Angular, .NET Core, ASP.NET, Ionic, Firebase, Java, REST API, SQL, Power BI
 <br>
-🌱 I’m curious about Software Dev, Github Copilot, Machine Learning, Data Visualisation
+🌱 I’m curious about Software Dev, Github Copilot, Machine Learning, Data Visualisation, UI/UX
 <br>
-⚡ Fun facts about me: I am an intermediate soccer player, an amateur photographer, tech enthusiast and a self-taught developer.
+⚡ Fun facts about me: I am an intermediate soccer player, an amateur photographer, a tech enthusiast and a self-taught developer.
 <br><br>
 Connect with me on: 
 <ul>
